@@ -1,0 +1,42 @@
+/* h3, h1{
+    text-align: center; */
+   /* background-color: black;
+   color: white; */ 
+/* }
+  */
+/* .main-cadastro .inserir fieldset{ */
+/* display: inline-block; */
+/* text-align: center;
+padding-bottom: 1%;
+width: 200px;
+border-radius: 25px;
+padding-top: 1%;
+} */
+
+/* hr{
+  width: 400px;
+}
+
+.main-cadastro .inserir{
+  text-align: center;
+ 
+}
+
+input{
+   margin: 10 0px;
+}
+
+.main-usuarios{
+  align-items: center;
+} */
+
+/* .main-cadastro .tabela {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+} */
+
+.main-cadastro.tabela table{
+  display: flex;
+  justify-content: center;
+}
